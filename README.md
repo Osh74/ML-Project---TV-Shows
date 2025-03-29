@@ -1,4 +1,4 @@
-                                              # Machine Learning Project Overview: Predicting TV Show Popularity Rank  
+#                                             Machine Learning Project Overview: Predicting TV Show Popularity Score  
 
 ## Research Question  
 **What is the predicted popularity rank of a TV show given its attributes?**  
@@ -7,7 +7,8 @@
 TV show popularity is driven by content quality, celebrity influence, and genre appeal. Marketing, social media engagement, and platform accessibility further shape audience reach. Demographics and societal trends also play key roles in determining a show's success.  
 
 ## Goals  
-- Using a **supervised machine learning model** to predict TV show popularity rankings based on well-cleaned, selected features from over **150K records** of the Full TMDB TV Shows dataset.  
+- Using a **supervised machine learning model** to predict TV show popularity rankings based on well-cleaned, selected features from over **150K records** of the 
+  Full TMDB TV Shows dataset.  
 - Achieving a **low error score** on evaluation metrics to reflect model performance.  
 - The ultimate goal is to help **production companies uncover the 'recipe' for a successful TV show, leading to increased revenue**.  
 
