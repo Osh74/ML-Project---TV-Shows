@@ -1,4 +1,4 @@
-#            Machine Learning Project Overview: Predicting TV Show Popularity Score  
+# Machine Learning Project Overview: Predicting TV Show Popularity Score  
 
 ## Research Question  
 **What is the predicted popularity rank of a TV show given its attributes?**  
